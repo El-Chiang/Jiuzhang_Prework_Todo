@@ -36,23 +36,33 @@
 
 ### 增加、删除、标记
 
-![](https://cl.ly/1v280W1s2832/Screen%20Recording%202018-04-16%20at%2007.24.59.53%20PM.gif)
+
+
+![](https://github.com/El-Chiang/Jiuzhang_Prework_Todo/blob/master/images/add.gif?raw=true)
 
 
 
-![](https://cl.ly/323O3g0d0I28/Screen%20Recording%202018-04-16%20at%2007.26.16.79%20PM.gif)
+![](https://github.com/El-Chiang/Jiuzhang_Prework_Todo/blob/master/images/delete.gif?raw=true)
 
-![](https://cl.ly/2R0Q353y3J3V/Screen%20Recording%202018-04-16%20at%2007.30.05.45%20PM.gif)
+
+
+![](https://github.com/El-Chiang/Jiuzhang_Prework_Todo/blob/master/images/mark.gif?raw=true)
+
+
 
 ### 编辑
 
-![](https://cl.ly/3W2b1B2C2I2v/Screen%20Recording%202018-04-16%20at%2007.37.22.23%20PM.gif)
+![](https://github.com/El-Chiang/Jiuzhang_Prework_Todo/blob/master/images/edit.gif?raw=true)
+
+
 
 ### 设置优先级和expire date
 
-![](https://cl.ly/2Y180v1w0V2s/Screen%20Recording%202018-04-16%20at%2007.39.24.88%20PM.gif)
+![](https://github.com/El-Chiang/Jiuzhang_Prework_Todo/blob/master/images/priority.gif?raw=true)
 
 ### 排序
 
-![](https://cl.ly/2u3R3r401C2O/Screen%20Recording%202018-04-16%20at%2007.40.38.33%20PM.gif)
+![](https://github.com/El-Chiang/Jiuzhang_Prework_Todo/blob/master/images/sort.gif?raw=true)
+
+
 
